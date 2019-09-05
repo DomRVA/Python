@@ -6,6 +6,8 @@ that number appears in the triple quoted string.
 Credit to William J. Turkel and Adam Crymble for the word
 frequency code used below. I just merged the two ideas.
 """
+
+# Dom's comment
 import re
 pattern = re.compile("\W")
 wordstring = '''SCENE I. Yorkshire. Gaultree Forest.
